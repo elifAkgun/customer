@@ -1,0 +1,15 @@
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/rest/RestConfig.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/caching/CacheControlFactory.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/entity/Address.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/entity/Customer.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/util/LocalDateSerializer.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/service/Service.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/airhacks/ping/boundary/PingResource.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/airhacks/JAXRSConfiguration.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/config/ConstraintViolationExceptionMapper.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/entity/Bank.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/rest/CustomerRestClient.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/caching/CachControlConfig.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/entity/AbstractEntity.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/util/LocalDateDeserializer.java
+/Users/elifakgun/eclipse-workspace-jee8/customer/src/main/java/com/elif/service/CustomerServiceImpl.java
